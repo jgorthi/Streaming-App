@@ -1,4 +1,4 @@
-# VideoStreamingApplication
+# StreamingApp
 ### Purpose Of This Application 
 These days trend of short videos are on rise youtube recently realsed "Shorts" . So , taking inspiration from Youtube Shorts I decided to make this application which will allow user to upload 120 secs video .
 
